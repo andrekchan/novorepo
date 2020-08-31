@@ -1,2 +1,1 @@
-print('Hellow from main.py')
-print('Olha esta nova funcionalidade')
+print('Ola mundo')
